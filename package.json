@@ -2,6 +2,7 @@
   "name": "taskflow",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://Saikeerthi24.github.io/ReactApp",
   "type": "module",
   "scripts": {
     "dev": "vite",
